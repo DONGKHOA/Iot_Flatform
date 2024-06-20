@@ -28,6 +28,19 @@ extern "C" {
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx_hal.h"
+#include "stm32f4xx_ll_adc.h"
+#include "stm32f4xx_ll_i2c.h"
+#include "stm32f4xx_ll_rcc.h"
+#include "stm32f4xx_ll_bus.h"
+#include "stm32f4xx_ll_system.h"
+#include "stm32f4xx_ll_exti.h"
+#include "stm32f4xx_ll_cortex.h"
+#include "stm32f4xx_ll_utils.h"
+#include "stm32f4xx_ll_pwr.h"
+#include "stm32f4xx_ll_dma.h"
+#include "stm32f4xx_ll_spi.h"
+#include "stm32f4xx_ll_usart.h"
+#include "stm32f4xx_ll_gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -57,6 +70,28 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define RS_Pin LL_GPIO_PIN_13
+#define RS_GPIO_Port GPIOC
+#define RW_Pin LL_GPIO_PIN_14
+#define RW_GPIO_Port GPIOC
+#define E_Pin LL_GPIO_PIN_15
+#define E_GPIO_Port GPIOC
+#define DB4_Pin LL_GPIO_PIN_0
+#define DB4_GPIO_Port GPIOC
+#define DB5_Pin LL_GPIO_PIN_1
+#define DB5_GPIO_Port GPIOC
+#define DB6_Pin LL_GPIO_PIN_2
+#define DB6_GPIO_Port GPIOC
+#define DB7_Pin LL_GPIO_PIN_3
+#define DB7_GPIO_Port GPIOC
+#define CS_1_Pin LL_GPIO_PIN_2
+#define CS_1_GPIO_Port GPIOA
+#define CS_2_Pin LL_GPIO_PIN_3
+#define CS_2_GPIO_Port GPIOA
+#define CS_3_Pin LL_GPIO_PIN_4
+#define CS_3_GPIO_Port GPIOA
+#define BL_Pin LL_GPIO_PIN_4
+#define BL_GPIO_Port GPIOC
 
 /* USER CODE BEGIN Private defines */
 

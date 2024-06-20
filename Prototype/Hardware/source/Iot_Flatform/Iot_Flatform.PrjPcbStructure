@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=Analog_input.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Analog_output.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Digital_IN_OUT.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Encoder_Key.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=LCD.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=MCU_ESP32.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=MCU_SIM.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=MCU_STM32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Modbus_RTU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=1
