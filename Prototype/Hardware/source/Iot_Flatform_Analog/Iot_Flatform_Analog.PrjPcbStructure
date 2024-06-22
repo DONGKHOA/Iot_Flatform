@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Analog_input.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Analog_output.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=DAC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=MCU_STM32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Analog_input.SchDoc|FileName=Voltage_Ref.SchDoc|SheetNumber=4

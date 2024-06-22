@@ -1,0 +1,700 @@
+Added Component: Designator=C1(TANTALUM SMD C)
+Add component (AddParameter): Name = "Size"; Value = "2312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-tantalum-10uf-16v-2312-tajc106k016rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(WCAP-ASLI_D5H5.5)
+Add component (AddParameter): Name = "Size"; Value = "5x5.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-nhom-smd-47uf-16v-5x5-4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(WCAP-ASLI_D5H5.5)
+Add component (AddParameter): Name = "Size"; Value = "4x5.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-nhom-smd-1uf-50v-4x5-4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(TANTALUM SMD C)
+Add component (AddParameter): Name = "Size"; Value = "2312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-tantalum-10uf-16v-2312-tajc106k016rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-330nf-16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330nF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C45(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-1uf-16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C47(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C48(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAP_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/tu-gom-0805-10uf-6-3v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TBL_2_3_81)
+Add component (AddParameter): Name = "Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20A, 300V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TBL_4_3_81)
+Add component (AddParameter): Name = "Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20A, 300V"; VariantName = "[No Variations]"
+Added Component: Designator=J3(TBL_4_3_81)
+Add component (AddParameter): Name = "Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20A, 300V"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SQ2398ES-SOT23)
+Add component (AddParameter): Name = "Size"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/bss138lt1g-mosfet-kenh-n-50v-200ma-sot-23?gidzl=ejQjBwD9gJIgoweegb-XEgd0foIs3Qmxv9EgAUq7gMEvcFujlbAkFktE-2NgLAvjwy6k8Z0nh38heKYfCm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BSS138LT1G"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-30-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0603)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-150-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-1-ohm-0805-1-https://www.thegioiic.com/dien-tro-1-ohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-30-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-200-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-200-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-150-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-39-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-120-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-30-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-200-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-200-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R18(EVM3E)
+Add component (AddParameter): Name = "Size"; Value = "EVM3E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/evm3e-102-bien-tro-1-kohm-nut-ao-smd-0-15w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "EVM3E-102"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-120-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-30-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-24-9-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24.9K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-10-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-200-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-200-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-200-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_0805)
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/icl7662cba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ICL7662CBA"; VariantName = "[No Variations]"
+Added Component: Designator=U2(STM32F4)
+Added Component: Designator=U3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/lm358dt-ic-opamp-general-purpose-amplifier-2-circuit-1-1mhz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM358DT"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/op07csz-ic-opamp-general-purpose-amplifier-1-circuit-600khz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "OP07CSZ"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/lm358dt-ic-opamp-general-purpose-amplifier-2-circuit-1-1mhz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM358DT"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/op07csz-ic-opamp-general-purpose-amplifier-1-circuit-600khz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "OP07CSZ"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/lm358dt-ic-opamp-general-purpose-amplifier-2-circuit-1-1mhz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM358DT"; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/mcp4921-e-sn-ic-dac-12-bit-1-channel-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MCP4921-E/SN"; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/mcp4921-e-sn-ic-dac-12-bit-1-channel-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MCP4921-E/SN"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Size"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/mcp1525t-i-tt-ic-tham-chieu-dien-ap-2-5v-sot-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.5VDC"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/op07csz-ic-opamp-general-purpose-amplifier-1-circuit-600khz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "OP07CSZ"; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Size"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/mcp1525t-i-tt-ic-tham-chieu-dien-ap-2-5v-sot-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.5VDC"; VariantName = "[No Variations]"
+Added Component: Designator=U13(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Size"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/mcp1525t-i-tt-ic-tham-chieu-dien-ap-2-5v-sot-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.5VDC"; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/op07csz-ic-opamp-general-purpose-amplifier-1-circuit-600khz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "OP07CSZ"; VariantName = "[No Variations]"
+Added Component: Designator=U15(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Size"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.thegioiic.com/op07csz-ic-opamp-general-purpose-amplifier-1-circuit-600khz-8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "OP07CSZ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=-5 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=-5 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=-5 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=-5 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=-5 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=-5 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=-5 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=+5 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=+5 Pin=C18-2
+Added Pin To Net: NetName=+5 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+5 Pin=C20-2
+Added Pin To Net: NetName=-5 Pin=C21-1
+Added Pin To Net: NetName=-5 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=-5 Pin=C23-1
+Added Pin To Net: NetName=-5 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=+5 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=+5 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+5 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=+5 Pin=C28-2
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=+5 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=+5 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=+5 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=-5 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=-5 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=+5 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=+5 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=+5 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+5 Pin=C39-2
+Added Pin To Net: NetName=-5 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=-5 Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=-5 Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=-5 Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=+5 Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=+5 Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ2_3 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR1_2 Pin=R4-2
+Added Pin To Net: NetName=NetJ2_4 Pin=R5-1
+Added Pin To Net: NetName=NetJ2_3 Pin=R5-2
+Added Pin To Net: NetName=NetJ2_4 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR6_2 Pin=R9-2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR10_2 Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetC29_2 Pin=R19-2
+Added Pin To Net: NetName=NetC29_2 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=VREF_1_25 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetC1_1 Pin=U1-4
+Added Pin To Net: NetName=-5 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=+5 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U2-0
+Added Pin To Net: NetName=+5 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-24
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=+5 Pin=U2-26
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-50
+Added Pin To Net: NetName=GND Pin=U2-50
+Added Pin To Net: NetName=GND Pin=U2-50
+Added Pin To Net: NetName=NetU2_55 Pin=U2-55
+Added Pin To Net: NetName=NetU2_56 Pin=U2-56
+Added Pin To Net: NetName=GND Pin=U2-74
+Added Pin To Net: NetName=GND Pin=U2-75
+Added Pin To Net: NetName=GND Pin=U2-75
+Added Pin To Net: NetName=GND Pin=U2-77
+Added Pin To Net: NetName=NetU2_78 Pin=U2-78
+Added Pin To Net: NetName=NetU2_79 Pin=U2-79
+Added Pin To Net: NetName=NetR15_2 Pin=U2-80
+Added Pin To Net: NetName=NetU2_81 Pin=U2-81
+Added Pin To Net: NetName=NetU2_82 Pin=U2-82
+Added Pin To Net: NetName=NetU2_83 Pin=U2-83
+Added Pin To Net: NetName=GND Pin=U2-86
+Added Pin To Net: NetName=GND Pin=U2-99
+Added Pin To Net: NetName=-5 Pin=U3-4
+Added Pin To Net: NetName=NetR1_2 Pin=U3-5
+Added Pin To Net: NetName=NetJ3_1 Pin=U3-7
+Added Pin To Net: NetName=+5 Pin=U3-8
+Added Pin To Net: NetName=NetR2_2 Pin=U4-2
+Added Pin To Net: NetName=NetR6_2 Pin=U4-3
+Added Pin To Net: NetName=-5 Pin=U4-4
+Added Pin To Net: NetName=NetR3_2 Pin=U4-6
+Added Pin To Net: NetName=+5 Pin=U4-7
+Added Pin To Net: NetName=NetR10_2 Pin=U5-1
+Added Pin To Net: NetName=-5 Pin=U5-4
+Added Pin To Net: NetName=NetR14_2 Pin=U5-6
+Added Pin To Net: NetName=NetR15_2 Pin=U5-7
+Added Pin To Net: NetName=+5 Pin=U5-8
+Added Pin To Net: NetName=-5 Pin=U6-4
+Added Pin To Net: NetName=+5 Pin=U6-7
+Added Pin To Net: NetName=-5 Pin=U7-4
+Added Pin To Net: NetName=+5 Pin=U7-8
+Added Pin To Net: NetName=+5 Pin=U8-1
+Added Pin To Net: NetName=NetU2_56 Pin=U8-2
+Added Pin To Net: NetName=NetU2_82 Pin=U8-3
+Added Pin To Net: NetName=NetU2_83 Pin=U8-4
+Added Pin To Net: NetName=NetU2_79 Pin=U8-5
+Added Pin To Net: NetName=VREF_2_5 Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=+5 Pin=U9-1
+Added Pin To Net: NetName=NetU2_81 Pin=U9-2
+Added Pin To Net: NetName=NetU2_82 Pin=U9-3
+Added Pin To Net: NetName=NetU2_83 Pin=U9-4
+Added Pin To Net: NetName=NetU2_78 Pin=U9-5
+Added Pin To Net: NetName=VREF_2_5 Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=+5 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=NetC29_2 Pin=U11-2
+Added Pin To Net: NetName=-5 Pin=U11-4
+Added Pin To Net: NetName=+5 Pin=U11-7
+Added Pin To Net: NetName=+5 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=+5 Pin=U13-1
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=-5 Pin=U14-4
+Added Pin To Net: NetName=+5 Pin=U14-7
+Added Pin To Net: NetName=-5 Pin=U15-4
+Added Pin To Net: NetName=VREF_1_25 Pin=U15-6
+Added Pin To Net: NetName=+5 Pin=U15-7
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=C21-2
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=C23-2
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=R19-1
+Added Pin To Net: NetName=NetC33_2 Pin=U10-2
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=R22-2
+Added Pin To Net: NetName=NetC45_2 Pin=U12-2
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=NetC47_1 Pin=R24-2
+Added Pin To Net: NetName=NetC47_1 Pin=R25-1
+Added Pin To Net: NetName=NetC47_1 Pin=U14-6
+Added Net: Name=NetC47_1
+Added Pin To Net: NetName=NetC47_2 Pin=C47-2
+Added Pin To Net: NetName=NetC47_2 Pin=R23-2
+Added Pin To Net: NetName=NetC47_2 Pin=R24-1
+Added Pin To Net: NetName=NetC47_2 Pin=U14-2
+Added Net: Name=NetC47_2
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=R23-1
+Added Pin To Net: NetName=NetC49_2 Pin=U13-2
+Added Net: Name=NetC49_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R17-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U8-8
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R8-1
+Added Pin To Net: NetName=NetR7_2 Pin=U3-6
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Pin To Net: NetName=NetR10_1 Pin=U5-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U5-3
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U5-5
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U7-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U11-3
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=R26-1
+Added Pin To Net: NetName=NetR25_2 Pin=U15-2
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=U15-3
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=NetU9_8 Pin=U9-8
+Added Net: Name=NetU9_8
+Added Pin To Net: NetName=VREF_-0_625 Pin=C29-1
+Added Pin To Net: NetName=VREF_-0_625 Pin=R20-2
+Added Pin To Net: NetName=VREF_-0_625 Pin=U11-6
+Added Net: Name=VREF_-0_625
+Added Class: Name=DAC
+Added Class: Name=Voltage_Ref
+Added Member To Class: ClassName=Power_Supply Member=Component C1 10uF/16V
+Added Member To Class: ClassName=Power_Supply Member=Component C2 47uF/16V
+Added Member To Class: ClassName=Power_Supply Member=Component C3 1uF/50V
+Added Member To Class: ClassName=Power_Supply Member=Component C4 10uF/16V
+Added Member To Class: ClassName=Analog_input Member=Component C5 10uF/6.3V
+Added Member To Class: ClassName=Analog_input Member=Component C6 100nF/50V
+Added Member To Class: ClassName=Analog_input Member=Component C7 10uF/6.3V
+Added Member To Class: ClassName=Analog_input Member=Component C8 100nF/50V
+Added Member To Class: ClassName=Analog_input Member=Component C9 10uF/6.3V
+Added Member To Class: ClassName=Analog_input Member=Component C10 100nF/50V
+Added Member To Class: ClassName=Analog_input Member=Component C11 10uF/6.3V
+Added Member To Class: ClassName=Analog_input Member=Component C12 100nF/50V
+Added Member To Class: ClassName=Analog_input Member=Component C13 10uF/6.3V
+Added Member To Class: ClassName=Analog_input Member=Component C14 100nF/50V
+Added Member To Class: ClassName=Analog_input Member=Component C15 10uF/6.3V
+Added Member To Class: ClassName=Analog_input Member=Component C16 100nF/50V
+Added Member To Class: ClassName=Analog_output Member=Component C17 10uF/6.3V
+Added Member To Class: ClassName=Analog_output Member=Component C18 100nF/50V
+Added Member To Class: ClassName=Analog_output Member=Component C19 10uF/6.3V
+Added Member To Class: ClassName=Analog_output Member=Component C20 100nF/50V
+Added Member To Class: ClassName=Analog_output Member=Component C21 10uF/6.3V
+Added Member To Class: ClassName=Analog_output Member=Component C22 100nF/50V
+Added Member To Class: ClassName=Analog_output Member=Component C23 10uF/6.3V
+Added Member To Class: ClassName=Analog_output Member=Component C24 100nF/50V
+Added Member To Class: ClassName=Power_Supply Member=Component J1 Terminal_2
+Added Member To Class: ClassName=Analog_input Member=Component J2 Terminal_4
+Added Member To Class: ClassName=Analog_output Member=Component J3 Terminal_4
+Added Member To Class: ClassName=Analog_output Member=Component Q1 BSS138LT1G
+Added Member To Class: ClassName=Analog_input Member=Component R1 100K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R2 30K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R3 150K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R4 100K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R5 1/1%
+Added Member To Class: ClassName=Analog_input Member=Component R6 30K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R7 200K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R8 200K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R9 150K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R10 39K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R11 120K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R12 30K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R13 100K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R14 200K/1%
+Added Member To Class: ClassName=Analog_input Member=Component R15 200K/1%
+Added Member To Class: ClassName=Analog_output Member=Component R16 100/1%
+Added Member To Class: ClassName=Analog_output Member=Component R17 100K/1%
+Added Member To Class: ClassName=Analog_output Member=Component R18 EVM3E-102
+Added Member To Class: ClassName=Power_Supply Member=Component U1
+Added Member To Class: ClassName=MCU_STM32 Member=Component U2 STM32F411VET6
+Added Member To Class: ClassName=Analog_input Member=Component U3 LM358DT
+Added Member To Class: ClassName=Analog_input Member=Component U4 OP07CSZ
+Added Member To Class: ClassName=Analog_input Member=Component U5 LM358DT
+Added Member To Class: ClassName=Analog_output Member=Component U6 OP07CSZ
+Added Member To Class: ClassName=Analog_output Member=Component U7 LM358DT
